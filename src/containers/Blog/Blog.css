@@ -18,6 +18,8 @@
 }
 
 .Blog a:hover,
-.Blog a:active{
-    color:#f1923f
+.Blog a:active,
+.Blog a.acitve
+{
+    color:#f1923f;
 }
